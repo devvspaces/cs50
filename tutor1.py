@@ -9,3 +9,5 @@ while n:
 avg=sum(data)/len(data)
 avg=round(avg)
 print(avg)
+#this is a new line
+print("make sure you add this")
